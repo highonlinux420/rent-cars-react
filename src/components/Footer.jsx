@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import Info from "./info";
+import Info from "./Info";
 import play from "../assets/play.png";
 import apple from "../assets/apple.svg";
 import {Link} from "react-router-dom";
