@@ -76,11 +76,11 @@ rent-cars-react/
 ├── public/                 # Static assets (favicon, robots.txt)
 ├── src/
 │   ├── assets/             # Images, icons
-│   ├── fonts/              # Fonts
 │   ├── components/         # Reusable UI components
+│   ├── fonts/              # Fonts
 │   ├── pages/              # Website Routes/Pages
-│   ├── GlobalStyles.jsx    # Global CSS
-│   ├── CONSTANTS.js        # Constant Variables and 
+│   ├── GlobalStyles.jsx    # Global CSS-in-JS
+│   ├── CONSTANTS.js        # Constant Variables and Functions
 │   ├── App.jsx             # App root component
 │   ├── main.jsx            # Entry point
 │   └── index.css           # Global styles
