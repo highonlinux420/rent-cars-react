@@ -5,7 +5,7 @@ import IconInput from "../components/IconInput";
 import {Eye, EyeOff} from "react-feather";
 import {useLocation, useNavigate} from "react-router-dom";
 import axios from "axios";
-import {API_URL} from "../assets/CONSTANTS";
+import {API_URL} from "../CONSTANTS";
 import Cookies from "js-cookie";
 import {toast} from "react-toastify";
 

@@ -1,7 +1,7 @@
 import {createGlobalStyle} from "styled-components";
 import WorkSans from "./fonts/WorkSans.ttf";
 
-const FontStyles = createGlobalStyle`
+const GlobalStyles = createGlobalStyle`
     @font-face {
         font-family: 'Work Sans';
         src: url(${WorkSans}) format('ttf');
@@ -45,4 +45,4 @@ const FontStyles = createGlobalStyle`
     }
 `;
 
-export default FontStyles;
+export default GlobalStyles;

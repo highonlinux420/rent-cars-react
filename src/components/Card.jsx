@@ -4,7 +4,7 @@ import hidden from "../assets/hidden.png";
 import PrimaryButton from "./PrimaryButton";
 import Spacer from "./Spacer";
 import {Link} from "react-router-dom";
-import {availability} from "../assets/CONSTANTS";
+import {availability} from "../CONSTANTS";
 import Banner from "./Banner";
 
 function Card({car}) {

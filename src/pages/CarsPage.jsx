@@ -3,7 +3,7 @@ import styled from "styled-components";
 import CardGrid from "../components/CardGrid";
 import Category from "../components/Category";
 import Footer from "../components/Footer";
-import {API_URL} from "../assets/CONSTANTS";
+import {API_URL} from "../CONSTANTS";
 import {useLocation} from "react-router-dom";
 import Spacer from "../components/Spacer";
 

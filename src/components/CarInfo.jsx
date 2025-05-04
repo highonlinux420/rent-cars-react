@@ -11,7 +11,7 @@ import seats from "../assets/seats.svg";
 import distance from "../assets/distance.svg";
 import IconInput from "./IconInput";
 import {Calendar} from "react-feather";
-import {API_URL} from "../assets/CONSTANTS";
+import {API_URL} from "../CONSTANTS";
 import axios from "axios";
 import Cookies from "js-cookie";
 import {Link, useNavigate} from "react-router-dom";

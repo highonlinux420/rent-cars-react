@@ -3,7 +3,7 @@ import CardGrid from "../components/CardGrid";
 import Hero from "../components/Hero";
 import Facts from "../components/Facts";
 import Footer from "../components/Footer";
-import {API_URL} from "../assets/CONSTANTS";
+import {API_URL} from "../CONSTANTS";
 import {InView} from "react-intersection-observer";
 import Spacer from "../components/Spacer";
 

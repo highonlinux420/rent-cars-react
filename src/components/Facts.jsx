@@ -6,7 +6,7 @@ import car from "../assets/car.svg";
 import user from "../assets/user.svg";
 import cal from "../assets/cal.svg";
 import speedo from "../assets/speedo.svg";
-import {API_URL} from "../assets/CONSTANTS";
+import {API_URL} from "../CONSTANTS";
 
 function Facts({inView}) {
     const [nbCars, setNbCars] = useState(0);

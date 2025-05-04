@@ -3,7 +3,7 @@ import CarInfo from "../components/CarInfo";
 import {ScrollRestoration, useLoaderData} from "react-router-dom";
 import Footer from "../components/Footer";
 import Spacer from "../components/Spacer";
-import {API_URL} from "../assets/CONSTANTS";
+import {API_URL} from "../CONSTANTS";
 
 function CarDetails() {
     const car = useLoaderData();

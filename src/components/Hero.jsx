@@ -5,7 +5,7 @@ import nissan from "../assets/nissan.png";
 import ArrowDown from "../assets/arrow-down.svg";
 import IconInput from "./IconInput.jsx";
 import {Calendar} from "react-feather";
-import {API_URL} from "../assets/CONSTANTS";
+import {API_URL} from "../CONSTANTS";
 import {Link, useNavigate} from "react-router-dom";
 
 function Hero() {
