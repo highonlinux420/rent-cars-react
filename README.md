@@ -4,12 +4,6 @@ A modern car rental web application frontend built with React. This project allo
 
 ---
 
-## 📸 Demo
-
-*A live demo is not currently available.*
-
----
-
 ## ✨ Features
 
 - Browse a catalog of available rental cars
