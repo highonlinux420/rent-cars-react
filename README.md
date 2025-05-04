@@ -50,8 +50,9 @@ Ensure you have the following installed:
 | `npm run lint`    | Run ESLint to check code style            |
 
 ---
-```
+
 ## 🗂️ Project Structure
+```
 rent-cars-react/
 ├── public/                 # Static assets (favicon, robots.txt)
 ├── src/
