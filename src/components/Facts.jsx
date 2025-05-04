@@ -32,9 +32,6 @@ function Facts({inView}) {
         const getCar = async () => {
             const settings = {
                 method: "GET",
-                headers: {
-                    "ngrok-skip-browser-warning": 123456,
-                },
             };
             const res = await fetch(API_URL + "/api/v1/count", settings);
             const data = await res.json();

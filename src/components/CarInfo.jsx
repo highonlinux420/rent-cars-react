@@ -27,7 +27,6 @@ function CarInfo({car}) {
                 headers: {
                     Accept: "application/json",
                     "Content-Type": "application/json",
-                    "ngrok-skip-browser-warning": 123456,
                     access_token: Cookies.get("access_token"),
                 },
                 withCredentials: true,
@@ -46,7 +45,6 @@ function CarInfo({car}) {
                             headers: {
                                 Accept: "application/json",
                                 "Content-Type": "application/json",
-                                "ngrok-skip-browser-warning": 123456,
                             },
                             withCredentials: true,
                         }
@@ -65,7 +63,6 @@ function CarInfo({car}) {
                         headers: {
                             Accept: "application/json",
                             "Content-Type": "application/json",
-                            "ngrok-skip-browser-warning": 123456,
                         },
                         withCredentials: true,
                     }

@@ -23,7 +23,6 @@ export const carLoader = async ({params}) => {
         headers: {
             Accept: "application/json",
             "Content-Type": "application/json",
-            "ngrok-skip-browser-warning": 123456,
         },
         body: JSON.stringify({car_id: `${params.id}`}),
     };

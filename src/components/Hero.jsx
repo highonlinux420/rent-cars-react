@@ -22,7 +22,6 @@ function Hero() {
             headers: {
                 Accept: "application/json",
                 "Content-Type": "application/json",
-                "ngrok-skip-browser-warning": 123456,
             },
             body: JSON.stringify({rent_d: rentalDate, return_d: returnDate, brand: brand}),
         };
@@ -39,7 +38,6 @@ function Hero() {
             headers: {
                 Accept: "application/json",
                 "Content-Type": "application/json",
-                "ngrok-skip-browser-warning": 123456,
             },
             body: JSON.stringify({rent_d: rentalDate, return_d: returnDate, brand: brand, type: type}),
         };
@@ -57,7 +55,6 @@ function Hero() {
                 headers: {
                     Accept: "application/json",
                     "Content-Type": "application/json",
-                    "ngrok-skip-browser-warning": 123456,
                 },
                 body: JSON.stringify({rent_d: rentalDate, return_d: returnDate}),
             };
