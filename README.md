@@ -13,6 +13,25 @@ A modern car rental web application frontend built with React. This project allo
 
 ---
 
+## 📦 Dependencies
+
+This project uses the following core libraries:
+
+| Package                     | Version     | Purpose                                      |
+|----------------------------|-------------|----------------------------------------------|
+| `axios`                    | ^1.7.7      | HTTP requests                                |
+| `js-cookie`                | ^3.0.5      | Manage cookies (auth tokens, etc.)           |
+| `react`                    | ^18.3.1     | Core React library                           |
+| `react-dom`                | ^18.3.1     | DOM rendering for React                      |
+| `react-feather`            | ^2.0.10     | Feather icons for React                      |
+| `react-intersection-observer` | ^9.13.1 | Detect element visibility (lazy loading, etc.) |
+| `react-loading-skeleton`   | ^3.5.0      | Skeleton loading screens                     |
+| `react-router-dom`         | ^6.26.2     | Routing and navigation                       |
+| `react-toastify`           | ^10.0.5     | Notifications and toasts                     |
+| `styled-components`        | ^6.1.13     | CSS-in-JS styling                            |
+
+---
+
 ## 🚀 Getting Started
 
 ### Prerequisites
