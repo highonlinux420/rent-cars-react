@@ -8,7 +8,7 @@ A modern car rental web application frontend built with React. This project allo
 
 - Browse a catalog of available rental cars
 - View detailed information for each vehicle
-- Rent their chosen car for a specific amount of time
+- Rent a chosen car for a specific amount of time
 - Responsive design suitable for all devices
 
 ---
