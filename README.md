@@ -50,7 +50,7 @@ Ensure you have the following installed:
 | `npm run lint`    | Run ESLint to check code style            |
 
 ---
-
+```
 ## 🗂️ Project Structure
 rent-cars-react/
 ├── public/                 # Static assets (favicon, robots.txt)
@@ -66,9 +66,9 @@ rent-cars-react/
 │   └── index.css           # Global styles
 ├── vite.config.js          # Vite configuration
 └── package.json
+```
 
 ---
-
 
 ## 🔌 API
 This app expects a RESTful API at the base URL defined in CONSTANTS.js file. Endpoints:
